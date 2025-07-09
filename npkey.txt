@@ -1,1 +1,1 @@
-npkey Git
+npkey git
